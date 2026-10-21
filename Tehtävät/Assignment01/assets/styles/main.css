@@ -1,0 +1,40 @@
+.HomeButton {
+    background-color: aqua;
+    border-radius: 8px;
+    border: 0px;
+    width: 100px;
+    height: 50px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /*animation-name: buttonOnAnimation;
+    animation-duration: 4s;*/
+}
+
+/*
+@keyframes buttonOnAnimation {
+    to {background-color: blueviolet;}
+}
+
+@keyframes buttonOutAnimation {
+    to {background-color: aqua;}
+}
+
+.HomeButton:hover{
+    animation-name: buttonOnAnimation;
+    animation-duration: 4s;
+}
+*/
+.grid-container {
+    display:grid;
+    grid-template-columns: 2fr 3fr;
+    gap: 11px;
+    justify-content: space-evenly;
+}
+
+#bottom-section {
+    background-color: black;
+    height: 200px;
+}
+
+.Test {
+    color: aliceblue;
+}
