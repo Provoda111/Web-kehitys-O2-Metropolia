@@ -71,3 +71,7 @@ li a:hover {
     justify-content: space-evenly;
 }
 
+nav {
+    background-color: rgba(245, 222, 179, 0.556);
+    
+}
