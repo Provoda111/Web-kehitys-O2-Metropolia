@@ -22,7 +22,7 @@ function throwDice(timeToThrow) {
         addLineBreak();
         console.log(`${i} heiton tulos: ${diceRoll}`);
     }
-    addElementToWebsite("p", `Kaikkien noppien silmälukujen summa on ${}`);
+    addElementToWebsite("p", `Kaikkien noppien silmälukujen summa on ${diceRollSum}`);
 }
 
 const timeToThrowDice = parseInt(prompt("Monta kertaa heitetään noppaa:"));
