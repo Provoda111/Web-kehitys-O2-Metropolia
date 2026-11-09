@@ -3,9 +3,9 @@
 - Tallenna luvut taulukkoon ja käy taulukko sitten for-silmukalla läpi lopusta alkuun
 - Älä käytä metodia array.reverse()
 
-2. Kirjoita ohjelma, joka kysyy käyttäjältä osallistujien lukumäärän. Tämän jälkeen ohjelma kysyy kaikkien osallistujien nimet. Lopuksi ohjelma tulostaa osallistujien nimet verkkosivulle numeroituna luettelona (<ol>) aakkosjärjestyksessä. (2p)
+2. Kirjoita ohjelma, joka kysyy käyttäjältä osallistujien lukumäärän. Tämän jälkeen ohjelma kysyy kaikkien osallistujien nimet. Lopuksi ohjelma tulostaa osallistujien nimet verkkosivulle numeroituna luettelona (ol) aakkosjärjestyksessä. (2p)
 
-3. Kirjoita ohjelma, joka kysyy kuuden koiran nimet. Ohjelma tulostaa koirien nimet järjestämättömään luetteloon (<ul>) käänteisessä aakkosjärjestyksessä.
+3. Kirjoita ohjelma, joka kysyy kuuden koiran nimet. Ohjelma tulostaa koirien nimet järjestämättömään luetteloon (ul) käänteisessä aakkosjärjestyksessä.
 
 4. Kirjoita ohjelma, joka kysyy käyttäjältä lukuja, kunnes käyttäjä syöttää nollan. Ohjelma tulostaa annetut luvut konsoliin suurimmasta pienimpään. (2p)
 
