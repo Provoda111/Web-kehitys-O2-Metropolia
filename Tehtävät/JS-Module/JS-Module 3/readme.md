@@ -11,7 +11,7 @@
 
 5. Kirjoita ohjelma, joka kysyy käyttäjältä lukuja. Kun käyttäjä syöttää luvun, jonka hän on jo aiemmin syöttänyt, ohjelma ilmoittaa, että luku on jo annettu, lopettaa toimintansa ja tulostaa kaikki annetut luvut konsoliin nousevassa järjestyksessä. (2p)
 
-6. Kirjoita funktio, joka palauttaa satunnaisen nopanheiton tuloksen väliltä 1–6. Funktiolla ei saa olla parametreja. Kirjoita pääohjelma, joka heittää noppaa, kunnes tulos on 6. Pääohjelman on tulostettava jokaisen heiton tulos järjestämättömään luetteloon (<ul>). (2p)
+6. Kirjoita funktio, joka palauttaa satunnaisen nopanheiton tuloksen väliltä 1–6. Funktiolla ei saa olla parametreja. Kirjoita pääohjelma, joka heittää noppaa, kunnes tulos on 6. Pääohjelman on tulostettava jokaisen heiton tulos järjestämättömään luetteloon ("<ul>"). (2p)
 
 7. Muokkaa edellistä funktiota niin, että sillä on parametri, joka kertoo nopan tahkojen lukumäärän. Muokatulla funktiolla voit heittää esimerkiksi 21-tahkoista roolipelinoppaa. Toisin kuin edellisessä tehtävässä, pääohjelma heittää noppaa, kunnes tulos on nopan suurin silmäluku. Pääohjelma kysyy tahkojen lukumäärän käyttäjältä ohjelman alussa. (2p)
 
