@@ -36,6 +36,6 @@ function printParticipants(participants)
     addElementToWebsite("h3", "Every participant:");
     for (let i = 0; i < participants.length; i++)
     {
-        addElementToWebsite("ol", `${participants[i]}`);
+        addElementToWebsite("ul", `${participants[i]}`);
     }
 }
